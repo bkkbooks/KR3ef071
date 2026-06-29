@@ -1,0 +1,329 @@
+canonical_identifier: bkk:krp/KR3ef071/v1
+canonical_location: https://kanripo.org/bkk/KR3ef071/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒摘錦
+  identifiers:
+    krp: KR3ef071
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef071.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef071_001.yaml, hash: 'sha256:691a45c6d9d95ca0a5bcf66d1a0ea93b1cc403cca0727958a9bf9da334228904'}
+  - {seq: 3, filename: KR3ef071_003.yaml, hash: 'sha256:0ee97d9e454a52161832c95654975a65cc6020f09538dd8031c7f29a627c94f1'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef071_001.markers.yaml, hash: 'sha256:7176c153a8da1116f5f6fcee237fd2ca416e6ba645ba5c3081ea5c946e77695c'}
+  - {seq: 3, role: markers, filename: assets/KR3ef071_003.markers.yaml, hash: 'sha256:53e4a1413799c310dd44dabcbeb50e1c2dc26712b2820affd7f45b319190905c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 16666
+  label: 卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d2
+    span:
+    - body
+    - 3
+    - 7261
+  label: 論六經脈證治法太陽經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d3
+    span:
+    - body
+    - 7261
+    - 8517
+  label: 太陽經傳經欲解合併病脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d4
+    span:
+    - body
+    - 8517
+    - 8781
+  label: 太陽病水氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d5
+    span:
+    - body
+    - 8781
+    - 13199
+  label: 陽明經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d6
+    span:
+    - body
+    - 13199
+    - 14325
+  label: 陽明經傳經合病變證脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d7
+    span:
+    - body
+    - 14325
+    - 15431
+  label: 陽明經禁忌不可犯
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d8
+    span:
+    - body
+    - 15431
+    - 16123
+  label: 少陽經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d9
+    span:
+    - body
+    - 16123
+    - 16399
+  label: 少陽傳經合病欲解脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef071_jc_001-d2d10
+    span:
+    - body
+    - 16399
+    - 16666
+  label: 少陽禁忌不可犯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 14667
+  label: 卷之下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d2
+    span:
+    - body
+    - 3
+    - 769
+  label: 太陰經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d3
+    span:
+    - body
+    - 769
+    - 1005
+  label: 太陰入腑欲解脈證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d4
+    span:
+    - body
+    - 1005
+    - 1248
+  label: 太陰禁忌不可犯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d5
+    span:
+    - body
+    - 1248
+    - 3769
+  label: 少陰經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d6
+    span:
+    - body
+    - 3769
+    - 4073
+  label: 辨少陰咽痛脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d7
+    span:
+    - body
+    - 4073
+    - 4539
+  label: 少陰傳經欲解可治不可治脈證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d8
+    span:
+    - body
+    - 4539
+    - 4823
+  label: 少陰禁忌不可犯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d9
+    span:
+    - body
+    - 4823
+    - 7662
+  label: 厥陰經脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d10
+    span:
+    - body
+    - 7662
+    - 7991
+  label: 厥陰傳經欲解可治不可治脈證
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d11
+    span:
+    - body
+    - 7991
+    - 8298
+  label: 厥陰禁忌不可犯
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d12
+    span:
+    - body
+    - 8298
+    - 8887
+  label: 六經傳盡後論解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d13
+    span:
+    - body
+    - 8887
+    - 9284
+  label: 六經汗下論解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d14
+    span:
+    - body
+    - 9284
+    - 10133
+  label: 傷寒瘥後陰陽易勞食復諸證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d15
+    span:
+    - body
+    - 10133
+    - 10777
+  label: 傷寒兩感證論解
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d16
+    span:
+    - body
+    - 10777
+    - 11482
+  label: 傷寒成溫暑感異氣變他病脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d17
+    span:
+    - body
+    - 11482
+    - 11881
+  label: 傷寒冬溫伏氣時行疫病證論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d18
+    span:
+    - body
+    - 11881
+    - 13296
+  label: 痙濕暍脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d19
+    span:
+    - body
+    - 13296
+    - 14069
+  label: 霍亂脈證治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef071_jc_003-d3d20
+    span:
+    - body
+    - 14069
+    - 14667
+  label: 傷寒將理法並諸死脈論
+  type: section
+  level: 2
+hash: sha256:1e75383c8bb9d0c6d7d8185ab6b3296c556543aa55bb511961c8c2f342c4cdb8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
