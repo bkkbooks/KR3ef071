@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef071/v1
 canonical_location: https://kanripo.org/bkk/KR3ef071/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒摘錦
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ef071_001.yaml, hash: 'sha256:ac2d041bfd98eec781f800ac8fb2956153f24fea34f4de2afff60ded95aa7518'}
-  - {seq: 3, filename: KR3ef071_003.yaml, hash: 'sha256:a35350c05f8e5b8c703dd83622ec69283434ab61660e5981fc31573bc522bb2f'}
+  - {seq: 1, filename: KR3ef071_001.yaml, hash: 'sha256:691a45c6d9d95ca0a5bcf66d1a0ea93b1cc403cca0727958a9bf9da334228904'}
+  - {seq: 3, filename: KR3ef071_003.yaml, hash: 'sha256:caa3fcac589959d3d148ac69ce5b4731817dbcd3e58753bc02c4e12394825957'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef071_001.markers.yaml, hash: 'sha256:a78df76fc0942453c7ce4157271ab3ba4d28d9c331b5f380d011f16fa8a3be11'}
-  - {seq: 3, role: markers, filename: assets/KR3ef071_003.markers.yaml, hash: 'sha256:f4e5e1f5bc4014687d2f5b5f616bbb3f8500021eee40301e19ce380a5518b1b3'}
+  - {seq: 1, role: markers, filename: assets/KR3ef071_001.markers.yaml, hash: 'sha256:27be910299ebed1605efd936362a8031ebf3f81a243e03000bd30fa772aa1453'}
+  - {seq: 3, role: markers, filename: assets/KR3ef071_003.markers.yaml, hash: 'sha256:29f79ace17deca274345d8f68a1a7782267e2894c7bccf9a9cc013ef40ccfaa5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -323,4 +323,7 @@ table_of_contents:
   label: 傷寒將理法並諸死脈論
   type: section
   level: 2
-hash: sha256:5030e76bf88f068c5f6b30e864ff7b788aecbf0e83d3035b68224b5a0155e326
+hash: sha256:ab9ac290ba676bfb942363148faa0840bb957f8b771db9e3b4f52360fb9d752e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
